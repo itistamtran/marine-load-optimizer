@@ -10,14 +10,17 @@ To assign items across a marine squad of varying sizes and mission durations in 
 - Meets item requirements, shareability, and transferability rules
 - Provides a self-sufficiency score to evaluate loadout effectiveness
 
-## Files & Structure
+## Project Structure
 
-├── marine_optimization.py          # Main script
-├── hot_sop_dataset.csv             # Hot weather dataset
-├── cold_sop_dataset.csv            # Cold weather dataset
-├── optimization_parameters.csv     # w, q, beta, gamma
-├── results/                        # Output folder with all CSV results
-└── README.md
+| File/Folder                   | Description                                                                |
+|-------------------------------|----------------------------------------------------------------------------|
+| `marine_optimization.py`      | Main Python script for running the marine supply optimization model        |
+| `hot_sop_dataset.csv`         | Dataset containing item data for hot weather conditions                    |
+| `cold_sop_dataset.csv`        | Dataset containing item data for cold weather conditions                   |
+| `optimization_parameters.csv` | Parameters used in the model (e.g., `w`, `q`, `beta`, `gamma`)             |
+| `results/`                    | Folder where all optimization result CSV files are saved                   |
+| `README.md`                   | Project overview and instructions                                          |
+
 
 ## Output
 - Console summary table for all configurations
