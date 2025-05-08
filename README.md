@@ -1,4 +1,4 @@
-# Marine Load Optimizer
+# Self-Sufficient Marine Knapsack Optimization
 
 A Python-based optimization model for efficiently allocating mission-critical gear to marine squads using the Standard Operating Procedure (SOP) datasets. The goal is to maximize utility while considering weight, volume, and item constraints.
 
@@ -10,12 +10,21 @@ To assign items across a marine squad of varying sizes and mission durations in 
 - Meets item requirements, shareability, and transferability rules
 - Provides a self-sufficiency score to evaluate loadout effectiveness
 
+## Files & Structure
+
+├── marine_optimization.py          # Main script
+├── hot_sop_dataset.csv             # Hot weather dataset
+├── cold_sop_dataset.csv            # Cold weather dataset
+├── optimization_parameters.csv     # w, q, beta, gamma
+├── results/                        # Output folder with all CSV results
+└── README.md
+
 ## Output
 - Console summary table for all configurations
 - Per-configuration CSVs with:
-- Assigned items per marine
-- Objective value
-- Self-sufficiency score
+    - Assigned items per marine
+    - Objective value
+    - Self-sufficiency score
 
 ## Method
 Formulated as a Multiple Knapsack Problem using PuLP:
