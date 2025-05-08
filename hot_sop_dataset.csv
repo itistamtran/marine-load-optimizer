@@ -1,0 +1,44 @@
+Item,Value_b,Weight_c,Volume_v,Transferable_t,LowerBound_l,Requirement_r,Shareable_a
+2 Grenade Pouches,7.1,0.33,50,1,0,2,1
+3 Magazine Pouches,7.1,0.33,50,1,0,6,1
+BAT and HIIDE System,9.0,2.2,300,1,1,1,13
+Batteries PRC-152,8.3,0.7,20,1,4,6,13
+Binoculars,4.7,3.94,150,1,0,1,4
+Boonie Cover,8.3,0.15,10,0,1,1,1
+Boots,5.0,3.12,250,0,1,1,1
+Breaching Kit,9.0,25.0,1000,1,1,1,13
+Camelback,9.5,6.91,600,1,1,1,1
+Cammie Paint,2.9,0.14,10,1,0,1,4
+Canteen Cup,4.0,0.18,20,1,0,1,1
+Combat Tarp,6.4,2.3,200,0,0,1,1
+Covered Canteens,9.5,2.3,100,1,2,2,1
+Dog Tags,4.5,0.1,5,1,1,1,1
+Dump Pouch,7.1,0.33,25,1,1,1,1
+E-tool with Carrier,6.0,2.7,300,1,0,1,1
+Eye Protection,7.2,0.31,10,1,0,1,1
+First Aid Kit,8.3,4.0,400,1,1,2,1
+Gloves,4.7,0.32,10,0,1,1,1
+Gortex Top/Bottom,4.1,2.97,500,0,0,0,1
+Helmet with Cover,9.3,3.5,350,0,1,1,1
+Hip Belt,2.7,0.3,15,0,1,1,1
+Hygiene Gear,5.8,2.0,100,0,0,0,1
+ID Card,2.2,0.03,1,1,1,1,1
+Individual Purifier,9.0,0.88,60,1,1,1,1
+LBV,7.0,1.8,300,0,0,1,1
+Main Pack Liner,6.7,9.0,700,0,0,1,1
+Map Pens,8.3,0.02,1,1,0,1,1
+Metal Detector,9.0,6.11,1000,1,1,1,13
+MREs,9.7,3.9,75,1,1,2,1
+Note Taking Gear,8.3,0.0,5,1,0,1,1
+NVG PVS 14,4.7,0.86,100,1,1,1,1
+Poncho Liner,6.3,1.6,150,0,0,1,1
+Protractor,8.3,0.0,1,1,0,1,1
+Pyro Set,8.0,1.3,50,1,1,2,4
+Radio PRC-152,8.3,2.0,250,1,0,1,13
+Rifle with Sling,8.9,8.35,1000,1,0,1,1
+SAPI Plate,9.1,19.0,1200,0,0,1,1
+Skivvy Shirt,4.9,0.18,20,0,1,1,1
+Sleeping Bag,6.2,7.4,800,1,0,1,1
+Socks,7.7,0.16,10,0,1,1,1
+Sun Block,8.3,0.15,5,1,0,1,13
+Underwear,5.0,0.25,10,0,0,1,1
